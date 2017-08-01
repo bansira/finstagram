@@ -1,0 +1,30 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+h1 {
+    margin: 20px;
+}
+body {
+    background-color: whitesmoke;
+}
+main {
+    background-color: white;
+    padding: 16px;
+}
+.post {
+    margin-bottom: 48px;
+}
+.post .user-info img {
+    border-radius: 50%;
+}
+p:hover {
+    background-color: aqua;
+}
+main {
+    font-family: 'Bellefair', serif;
+    font-size: 20px;
+}
+h3 {
+    font-size: 14px;
+}
